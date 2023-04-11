@@ -65,7 +65,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = [
     "http://localhost:3000",
-    #"http://system.com/csv_api"  
+    "http://csvapi.system.com"  
 ]
 
 
